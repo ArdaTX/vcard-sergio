@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sergio Molinares Nieto
+N:Molinares Nieto;Sergio;;;
+ORG:Intercepcom
+TITLE:Lead Pentester & CEO
+TEL;TYPE=WORK,VOICE:+573234330185
+EMAIL;TYPE=WORK:contact@intercepcom.co
+URL:https://intercepcom.co
+ADR;TYPE=WORK:;;100-147 Carrera 35b;Barranquilla;Atlántico;080015;Colombia
+URL:https://www.linkedin.com/in/smolinton/
+URL:https://instagram.com/atx_sec
+URL:https://github.com/ArdaTX
+NOTE:Ciberseguridad ofensiva, análisis de seguridad y consultoría.
+END:VCARD
