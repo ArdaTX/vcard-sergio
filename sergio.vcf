@@ -1,15 +1,23 @@
 BEGIN:VCARD
 VERSION:3.0
+PRODID:-//INTERCEPCOM//Tarjeta digital Sergio Molinares//ES
+UID:sergio-molinares-nieto-tarjeta-intercepcom-co
 FN:Sergio Molinares Nieto
 N:Molinares Nieto;Sergio;;;
-ORG:Intercepcom
+NICKNAME:smolinton
+ORG:INTERCEPCOM
 TITLE:Lead Pentester & CEO
-TEL;TYPE=WORK,VOICE:+573234330185
+ROLE:Lead Pentester & CEO
+TEL;TYPE=CELL,VOICE:+573234330185
 EMAIL;TYPE=WORK:contact@intercepcom.co
+URL:https://tarjeta.intercepcom.co/
 URL:https://intercepcom.co
 ADR;TYPE=WORK:;;100-147 Carrera 35b;Barranquilla;Atlántico;080015;Colombia
+LABEL;TYPE=WORK:100-147 Carrera 35b\nBarranquilla, Atlántico 080015\nColombia
+PHOTO;VALUE=URI:https://tarjeta.intercepcom.co/avatar.jpg
 URL:https://www.linkedin.com/in/smolinton/
-URL:https://instagram.com/atx_sec
+URL:https://www.instagram.com/atx_sec
 URL:https://github.com/ArdaTX
-NOTE:Ciberseguridad ofensiva, análisis de seguridad y consultoría.
+NOTE:Ciberseguridad ofensiva, análisis de seguridad y consultoría. Barranquilla, Colombia.
+REV:2026-10-01T00:00:00Z
 END:VCARD
